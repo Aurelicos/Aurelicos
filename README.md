@@ -66,5 +66,5 @@ I am a Full Stack Developer <img src="https://media1.giphy.com/media/QssGEmpkyEO
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aurelicos&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aurelicos&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Aurelicos&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=8&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 </h1>
