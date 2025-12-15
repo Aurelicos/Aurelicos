@@ -6,9 +6,6 @@
   <a href="https://discordapp.com/users/869579499266793512">
     <img src="https://img.shields.io/badge/Discord-blue?logo=discord&logoColor=white&style=for-the-badge" alt="Discord Badge"/>
   </a>
-  <a href="https://www.reddit.com/user/LinuxSudoers">
-    <img src="https://img.shields.io/badge/Reddit-red?style=for-the-badge&logo=reddit&logoColor=white" alt="Youtube Badge"/>
-  </a>
 </div>
 
 <h1 align="center">
